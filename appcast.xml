@@ -3,6 +3,15 @@
   <channel>
     <title>Wisp</title>
     <item>
+      <title>Wisp 0.3.8</title>
+      <pubDate>Sat, 03 Oct 2026 07:08:30 +0000</pubDate>
+      <sparkle:version>12</sparkle:version>
+      <sparkle:shortVersionString>0.3.8</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0.0</sparkle:minimumSystemVersion>
+      <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+      <enclosure url="https://github.com/ZakVir/wisp-updates/releases/download/v0.3.8/Wisp-0.3.8.dmg" type="application/octet-stream" sparkle:edSignature="e2AltPr66aRTl127U1ymBiwVnsy1Uqgecxp7EZJCIgBH+W3ZcN61VE5wHCsSPx7MQFL6fdGGTkI9Yhuy1uwxBw==" length="18299482"/>
+    </item>
+    <item>
       <title>Wisp 0.3.7</title>
       <pubDate>Sat, 03 Oct 2026 07:07:21 +0000</pubDate>
       <sparkle:version>11</sparkle:version>
