@@ -3,6 +3,15 @@
   <channel>
     <title>Wisp</title>
     <item>
+      <title>Wisp 2.4.2</title>
+      <pubDate>Sat, 03 Oct 2026 08:13:01 +0000</pubDate>
+      <sparkle:version>60</sparkle:version>
+      <sparkle:shortVersionString>2.4.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0.0</sparkle:minimumSystemVersion>
+      <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+      <enclosure url="https://github.com/ZakVir/wisp-updates/releases/download/v2.4.2/Wisp-2.4.2.dmg" type="application/octet-stream" sparkle:edSignature="1eEMk68a0izLDn81qqPHNbSWxdfny99JTNSWyxxhmnAuKwRxxafbboR5+p7odkrQFnSCkb+Ctx88W1/HnJyTCQ==" length="18599312"/>
+    </item>
+    <item>
       <title>Wisp 2.4.1</title>
       <pubDate>Sat, 03 Oct 2026 08:11:42 +0000</pubDate>
       <sparkle:version>59</sparkle:version>
